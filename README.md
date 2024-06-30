@@ -15,4 +15,4 @@ To delete remote tag => git push origin --delete v1.7
 
 To delete local tags => git tag -d v1.7
 
-![Alt text](images/19.png)
+![Project Logo](images/19.jpg)
